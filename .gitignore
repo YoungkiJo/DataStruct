@@ -1,7 +1,14 @@
 
 
-/c/List1/deploy/
+/c/ArrayList/deploy/
+/c/PointList/deploy/
 
-/python/List1/poetry.lock
 
-/go/List1/deploy
+/python/ArrayList/poetry.lock
+/python/ArrayList/app/ArrayList/__pycache__/
+/python/PointList/poetry.lock
+/python/PointList/app/pointlist/__pycache__/
+
+
+/go/ArrayList/deploy/
+/go/PointList/deploy/
