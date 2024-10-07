@@ -2,13 +2,17 @@
 
 /c/ArrayList/deploy/
 /c/PointList/deploy/
+/c/P3_1/deploy/
 
 
 /python/ArrayList/poetry.lock
 /python/ArrayList/app/ArrayList/__pycache__/
 /python/PointList/poetry.lock
 /python/PointList/app/pointlist/__pycache__/
+/python/P3_1/poetry.lock
+/python/P3_1/app/pointlist/__pycache__/
 
 
 /go/ArrayList/deploy/
 /go/PointList/deploy/
+/go/P3_1/deploy/
