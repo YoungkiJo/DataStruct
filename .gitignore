@@ -3,6 +3,7 @@
 /c/ArrayList/deploy/
 /c/PointList/deploy/
 /c/P3_1/deploy/
+/c/chapter4/Example/deploy/
 
 
 /python/ArrayList/poetry.lock
@@ -11,6 +12,8 @@
 /python/PointList/app/pointlist/__pycache__/
 /python/P3_1/poetry.lock
 /python/P3_1/app/pointlist/__pycache__/
+/python/chapter4/example/poetry.lock
+/python/chapter4/example/app/read/__pycache__/
 
 
 /go/ArrayList/deploy/
