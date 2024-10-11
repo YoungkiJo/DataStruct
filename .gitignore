@@ -5,6 +5,7 @@
 /c/P3_1/deploy/
 /c/chapter4/Example/deploy/
 /c/chapter4/P4_1/deploy/
+/c/chapter4/Dlinkedlist/deploy/
 
 
 /python/ArrayList/poetry.lock
@@ -22,3 +23,4 @@
 /go/chapter3/PointList/deploy/
 /go/chapter4/example/deploy/
 /go/chapter4/P4_1/deploy/
+/go/chapter4/Dlinkedlist/deploy/
