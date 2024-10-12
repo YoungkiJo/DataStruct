@@ -8,6 +8,14 @@
 /c/chapter4/Dlinkedlist/deploy/
 
 
+/go/chapter3/ArrayList/deploy/
+/go/chapter3/P3_1/deploy/
+/go/chapter3/PointList/deploy/
+/go/chapter4/example/deploy/
+/go/chapter4/P4_1/deploy/
+/go/chapter4/Dlinkedlist/deploy/
+
+
 /python/ArrayList/poetry.lock
 /python/ArrayList/app/ArrayList/__pycache__/
 /python/PointList/poetry.lock
@@ -16,11 +24,5 @@
 /python/P3_1/app/pointlist/__pycache__/
 /python/chapter4/example/poetry.lock
 /python/chapter4/example/app/read/__pycache__/
-
-
-/go/chapter3/ArrayList/deploy/
-/go/chapter3/P3_1/deploy/
-/go/chapter3/PointList/deploy/
-/go/chapter4/example/deploy/
-/go/chapter4/P4_1/deploy/
-/go/chapter4/Dlinkedlist/deploy/
+/python/chapter4/Dlinkedlist/poetry.lock
+/python/chapter4/Dlinkedlist/app/Dlinkedlist/__pycache__/
