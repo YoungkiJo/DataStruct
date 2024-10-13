@@ -1,3 +1,0 @@
-/mnt/d/Development/Code/Work/DataStruct/c/PointList/deploy/CMakeFiles/PointList.dir
-/mnt/d/Development/Code/Work/DataStruct/c/PointList/deploy/CMakeFiles/edit_cache.dir
-/mnt/d/Development/Code/Work/DataStruct/c/PointList/deploy/CMakeFiles/rebuild_cache.dir

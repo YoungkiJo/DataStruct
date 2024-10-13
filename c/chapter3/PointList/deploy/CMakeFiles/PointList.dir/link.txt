@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/PointList.dir/app/main.c.o CMakeFiles/PointList.dir/app/src/ArrayList.c.o CMakeFiles/PointList.dir/app/src/Point.c.o -o PointList 

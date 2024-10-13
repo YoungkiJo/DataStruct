@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/P3_1.dir/app/main.c.o CMakeFiles/P3_1.dir/app/src/ArrayList.c.o -o P3_1 

@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/List1.dir/app/main.c.o CMakeFiles/List1.dir/app/src/ArrayList.c.o -o List1 
