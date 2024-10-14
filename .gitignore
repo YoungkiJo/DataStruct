@@ -17,3 +17,5 @@
 /python/chapter4/example/app/read/__pycache__/
 /python/chapter4/Dlinkedlist/poetry.lock
 /python/chapter4/Dlinkedlist/app/Dlinkedlist/__pycache__/
+/python/chapter4/dlinkedsort/poetry.lock
+/python/chapter4/dlinkedsort/app/dlinkedlistsort/__pycache__/
