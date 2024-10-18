@@ -1,2 +1,2 @@
 # DataStruct
-C, Python, go / Book Orangemedia
+Python, go / Book Orangemedia
